@@ -1,0 +1,38 @@
+body{
+  background-color: #1f1e1e;
+  color:#ffffff;
+  overflow: hidden;
+  
+}
+
+
+
+input{
+  width: 100%;
+}
+.container{
+  background: #353434;
+  padding: 2%;
+  margin: auto;
+  width: fit-content;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.ed-row{
+  margin:10px 5px
+}
+.ed-btn{
+  min-width: 75px;
+}
+
+.fnmsg{
+  text-align: center;
+  font-size: 25px;
+  color:aqua;
+  padding: 50px 0;
+}
+.spn{
+  color: rgb(30, 237, 130);
+  font-weight: 500;
+}
